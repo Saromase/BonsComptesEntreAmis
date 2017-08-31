@@ -1,8 +1,7 @@
 # BonsComptesEntreAmis
 Réalisation d'un maquette pour un site de comptabilité entre amis qui entre dans le cadre de la certification. 
 Réalisation par Romain Seite à partir du PDF [Consigne](DL-CCP1.pdf) le Jeudi 31 Aout 2017
-
-## Page Flow :
+## Page Flow :
 ![PageFlow](img/Page_flow.png)
 ## Wireframe complet : 
 ![Wireframe](img/wireframe/WireFrame.png)
